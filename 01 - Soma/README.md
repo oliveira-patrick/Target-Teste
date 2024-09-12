@@ -16,9 +16,9 @@ Imprimir(SOMA);
 **Ao final do processamento, qual será o valor da variável SOMA?**
 ## Resposta
 
-Antes de tudo, é **fundamental** observamos a declaração dos dados do programa. Pois é através desses dados que conseguiremos chegar ao valor final.
+Antes de tudo, é **fundamental** observarmos a declaração dos dados do programa. Pois é através desses dados que conseguiremos chegar ao valor final.
 
-Com isso mente, vamos prosseguir:
+Com isso em mente, vamos prosseguir:
 
 ```bash
  int INDICE = 13, SOMA = 0, K = 0;
