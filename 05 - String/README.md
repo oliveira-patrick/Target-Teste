@@ -29,7 +29,7 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 Use o prompt de comandos e rode o seguinte comando:
 
 ```bash
-    cd [caminho da pasta]
+ cd [caminho da pasta]
 ````
 
 **Passo 2 - Compilar a biblioteca**
@@ -37,13 +37,13 @@ Use o prompt de comandos e rode o seguinte comando:
 Compile a biblioteca contendo as funções necessárias para a execução da solução:
 
 ```bash
-    gcc -c  ./lib/myStrings.c -o myStrings.o
+ gcc -c  ./lib/myStrings.c -o myStrings.o
 ````
 
 **Passo 3 - Compilar a solução e gerar um executável**
 
 ```bash
-    gcc -o main main.c myStrings.o
+ gcc -o main main.c myStrings.o
 ````
 **Testar o executável da solução**
 
@@ -54,7 +54,7 @@ Ainda no prompt, temos três opções:
 Execute:
 
 ```bash
-    .\main.exe
+ .\main.exe
 ````
 Após isso basta seguir as instruções exibidas na tela e fornecer os dados através do teclado.
 
@@ -63,7 +63,7 @@ Após isso basta seguir as instruções exibidas na tela e fornecer os dados atr
 Aqui você é capaz de fornecer uma string diretamente na linha de comando, junto da execução do programa.
 
 ```bash
-    .\main.exe [string da sua preferência]
+ .\main.exe [string da sua preferência]
 ````
 
 3 - Abrir o executável manualmente no diretório da solução.
