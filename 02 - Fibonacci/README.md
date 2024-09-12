@@ -11,8 +11,8 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 ├── lib
 │   ├── fibo.c
 │   └── fibo.h
-├── main.c
-└── README.md
+├── README.md
+└── main.c
 ````
 
 ## Uso/Exemplos
