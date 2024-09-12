@@ -21,14 +21,14 @@ Antes de tudo, é **fundamental** observamos a declaração dos dados do program
 Com isso mente, vamos prosseguir:
 
 ```bash
-    int INDICE = 13, SOMA = 0, K = 0;
+ int INDICE = 13, SOMA = 0, K = 0;
 ```
 Aqui observamos que foram declarados três variáveis do tipo inteiro e apenas **indice** tem um valor acima de zero. 
 
 Indo adiante no código, podemos observar que um **laço de repetição** foi estabelecido. 
 
 ```bash
-    Enquanto K < INDICE faça { ... }
+ Enquanto K < INDICE faça { ... }
 ```
 Este diz que irá continuar suas operações **enquanto** o valor armazenado em K for **menor** que o valor armazenado em **indice**.
 
