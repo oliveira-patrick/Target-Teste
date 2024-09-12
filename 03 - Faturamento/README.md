@@ -36,7 +36,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 Use o prompt de comandos e rode o seguinte comando:
 
 ```bash
-    cd [caminho da pasta]
+ cd [caminho da pasta]
 ````
 
 **Passo 2 - Compilar as bibliotecas**
@@ -46,18 +46,18 @@ Compile as bibliotecas contendo as funções necessárias para a execução da s
 Biblioteca 01 - cJSON:
 
 ```bash
-    gcc -c ./lib/cJSON.c -o cJSON.o
+ gcc -c ./lib/cJSON.c -o cJSON.o
 ````
 
 Biblioteca 02 - faturamento:
 
 ```bash
-   gcc -c ./lib/faturamento.c -o faturamento.o
+ gcc -c ./lib/faturamento.c -o faturamento.o
 ````
 **Passo 3 - Compilar a solução e gerar um executável**
 
 ```bash
-    gcc -o main main.c faturamento.o cJSON.o
+ gcc -o main main.c faturamento.o cJSON.o
 ````
 
 **Testar o executável da solução**
@@ -69,7 +69,7 @@ Ainda no prompt, temos três opções:
 Execute:
 
 ```bash
-    .\main.exe
+ .\main.exe
 ````
 Após isso basta seguir as instruções exibidas na tela e fornecer os dados através do teclado.
 
@@ -78,7 +78,7 @@ Após isso basta seguir as instruções exibidas na tela e fornecer os dados atr
 Aqui você é capaz de fornecer o arquivo a ser testado diretamente na linha de comando, junto da execução do programa.
 
 ```bash
-    .\main.exe [caminho do arquivo]
+ .\main.exe [caminho do arquivo]
 ````
 
 3 - Abrir o executável manualmente no diretório da solução.
