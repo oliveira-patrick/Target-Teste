@@ -24,8 +24,8 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 │   ├── cJSON.h
 │   ├── faturamento.c
 │   └── faturamento.h
-├── main.c
-└── README.md
+├── README.md
+└── main.c
 ````
 
 
