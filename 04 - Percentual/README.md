@@ -22,8 +22,8 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 │   ├── cJSON.h
 │   ├── faturamento.c
 │   └── faturamento.h
-├── main.c
-└── README.md
+├── README.md
+└── main.c
 ````
 
 
