@@ -35,8 +35,8 @@ Este diz que irá continuar suas operações **enquanto** o valor armazenado em 
 Dentro deste laço temos as seguintes operações:
 
 ```bash
-    K = K + 1
-    SOMA = SOMA + K
+ K = K + 1
+ SOMA = SOMA + K
 ```
 Essas operações indicam que **a cada ciclo** (iteração) do laço, o valor de **K** será **incrementado** em **1** e logo em seguida **SOMA** irá receber o seu **valor atual** somado ao **valor atual de K**.
 
