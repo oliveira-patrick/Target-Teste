@@ -17,8 +17,8 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 ├── lib
 │   ├── myStrings.c
 │   └── myStrings.h
-├── main.c
-└── README.md
+├── README.md
+└── main.c
 ````
 
 
