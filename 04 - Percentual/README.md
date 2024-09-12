@@ -34,7 +34,7 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 Use o prompt de comandos e rode o seguinte comando:
 
 ```bash
-    cd [caminho da pasta]
+ cd [caminho da pasta]
 ````
 
 **Passo 2 - Compilar as bibliotecas**
@@ -44,18 +44,18 @@ Compile as bibliotecas contendo as funções necessárias para a execução da s
 Biblioteca 01 - cJSON:
 
 ```bash
-    gcc -c ./lib/cJSON.c -o cJSON.o
+ gcc -c ./lib/cJSON.c -o cJSON.o
 ````
 
 Biblioteca 02 - percentual:
 
 ```bash
-   gcc -c ./lib/percentual.c -o percentual.o
+ gcc -c ./lib/percentual.c -o percentual.o
 ````
 **Passo 3 - Compilar a solução e gerar um executável**
 
 ```bash
-    gcc -o main main.c percentual.o cJSON.o
+ gcc -o main main.c percentual.o cJSON.o
 ````
 
 **Testar o executável da solução**
@@ -67,7 +67,7 @@ Ainda no prompt, temos duas opções:
 Execute:
 
 ```bash
-    .\main.exe
+ .\main.exe
 ````
 
 2 - Abrir o executável manualmente no diretório da solução.
