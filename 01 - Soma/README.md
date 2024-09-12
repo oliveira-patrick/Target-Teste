@@ -23,7 +23,7 @@ Com isso em mente, vamos prosseguir:
 ```bash
  int INDICE = 13, SOMA = 0, K = 0;
 ```
-Aqui observamos que foram declarados três variáveis do tipo inteiro e apenas **indice** tem um valor acima de zero. 
+Aqui observamos que foram declaradas três variáveis do tipo inteiro e apenas **indice** tem um valor acima de zero. 
 
 Indo adiante no código, podemos observar que um **laço de repetição** foi estabelecido. 
 
