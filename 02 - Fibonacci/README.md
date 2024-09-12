@@ -22,7 +22,7 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 Use o prompt de comandos e rode o seguinte comando:
 
 ```bash
-    cd [caminho da pasta]
+ cd [caminho da pasta]
 ````
 
 **Passo 2 - Compilar a biblioteca**
@@ -30,13 +30,13 @@ Use o prompt de comandos e rode o seguinte comando:
 Compile a biblioteca contendo as funções necessárias para a execução da solução:
 
 ```bash
-    gcc -c ./lib/fibo.c -o fibo.o
+ gcc -c ./lib/fibo.c -o fibo.o
 ````
 
 **Passo 3 - Compilar a solução e gerar um executável**
 
 ```bash
-    gcc -o main main.c fibo.o
+ gcc -o main main.c fibo.o
 ````
 **Testar o executável da solução**
 
@@ -47,7 +47,7 @@ Ainda no prompt, temos três opções:
 Execute:
 
 ```bash
-    .\main.exe
+ .\main.exe
 ````
 Após isso basta seguir as instruções exibidas na tela e fornecer os dados através do teclado.
 
@@ -56,7 +56,7 @@ Após isso basta seguir as instruções exibidas na tela e fornecer os dados atr
 Aqui você é capaz de fornecer o valor diretamente na linha de comando, junto da execução do programa.
 
 ```bash
-    .\main.exe [valor da sua preferência]
+ .\main.exe [valor da sua preferência]
 ````
 
 3 - Abrir o executável manualmente no diretório da solução.
