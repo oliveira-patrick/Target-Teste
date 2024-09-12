@@ -29,7 +29,7 @@ Para a "instalação" local deste projeto você pode seguir dois caminhos:
 1 - Clone este repositório usando o git através da linha de comando:
 
 ```bash
-   git clone <URL deste repositório>
+ git clone <URL deste repositório>
 ```
 
 2 - Faça o download, manualmente, dos arquivos seguindo o seguite passo a passo:
@@ -37,7 +37,7 @@ Para a "instalação" local deste projeto você pode seguir dois caminhos:
 - Na página do repositório clique: 
 
 ```bash
-   <> code -> download zip
+ <> code -> download zip
 ```
 - Após a conclusão do download basta extrair no local de sua preferência. 
 
