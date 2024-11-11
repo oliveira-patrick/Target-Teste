@@ -51,4 +51,4 @@ Cada solução possui, em seu diretório, instruções de uso. Para testar, bast
 
  - [C. A Linguagem de Programação Padrão ANSI](https://www.amazon.com.br/C-Linguagem-Programação-Padrão-ANSI/dp/8570015860)
  - [C: Como Programar](https://www.amazon.com.br/C-como-programar-Paul-Deitel/dp/8576059347)
- - [cJSON - Dumbest parser for C language](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [cJSON - Dumbest parser for C language](https://github.com/DaveGamble/cJSON)
